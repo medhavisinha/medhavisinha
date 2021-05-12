@@ -1,6 +1,6 @@
 ### 👋 Hey there, I'm Medhavi Sinha
 [![Twitter Follow](https://img.shields.io/twitter/follow/sassymedhavi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsassymedhavi&screen_name=sassymedhavi)
-## I'm a Freshman, Web Developer and a Learning Enthusiast.
+### I'm a Freshman, Web Developer and a Learning Enthusiast.
 
 - 🔭  I'm looking forward to learn more about Web Development.
 - 🕵️‍♀️  I’m currently exploring a lot of fields.
