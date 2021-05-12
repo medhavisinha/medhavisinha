@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://onemoremedhavi.medium.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
+[<img align="left" alt="https://onemoremedhavi.medium.com/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="sassymedhavi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Medhavi Sinha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_medhavisinha_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="onemoremedhavi@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -25,7 +25,7 @@
 - [Letting You Go](https://onemoremedhavi.medium.com/im-letting-you-go-97c94bdd7ecd)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more write-ups...](https://onemoremedhavi.medium.com/
+➡️ [more write-ups...](https://onemoremedhavi.medium.com
 
 ---
 
@@ -36,8 +36,8 @@
 
 </details>
 
-[website]: https://onemoremedhavi.medium.com/
+[medium]: https://onemoremedhavi.medium.com/
 [twitter]: https://twitter.com/sassymedhavi
 [instagram]: https://instagram.com/_medhavisinha_
 [linkedin]: https://www.linkedin.com/in/medhavi-sinha-7b9a431ba/
-[gmail]: onemoremedhavi@gmail.com
+
