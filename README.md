@@ -2,11 +2,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sassymedhavi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsassymedhavi&screen_name=sassymedhavi)
 ## I'm a Freshman, Web Developer and a Learning Enthusiast.
 
-- 🔭 I'm looking forward to learn more about Web Development
-- 🕵️‍♀️ I’m currently exploring a lot of fields.
-- 👯 I’m looking to collaborate with other developers and learn from them.
-- 🌸 2021 Goals: I want contribute towards Open Source projects.
-- 💫 Fun fact: I read (fiction) books and I write different write-ups.
+- 🔭  I'm looking forward to learn more about Web Development.
+- 🕵️‍♀️  I’m currently exploring a lot of fields.
+- 👯  I’m looking to collaborate with other developers and learn from them.
+- 🌸  2021 Goals: I want contribute towards Open Source projects and become a good developer.
+- 💫  Fun fact: I read (fiction) books and I write different write-ups.
 
 ### Connect with me:
 
