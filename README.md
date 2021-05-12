@@ -3,10 +3,10 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 ### I'm a Freshman, Web Developer and a Learning Enthusiast.
 
-- 🔭 &nbsp; I'm looking forward to learn more about Web Development.
+- 🔭 &nbsp; I'm looking forward to learn in-depth about Web Development.
 - 🕵️‍♀️ &nbsp; I’m currently exploring a lot of fields.
-- 👯 &nbsp; I’m looking to collaborate with other developers and learn from them.
-- 🌸  &nbsp; 2021 Goals: I want contribute towards Open Source projects and become a good developer.
+- 🤝 &nbsp; I’m looking forward to collaborate with other developers and learn from them.
+- 🌸  &nbsp; 2021 Goals: I want to contribute towards Open Source projects and become a good developer.
 - 💫  &nbsp; Fun fact: I read (fiction) books and I write different write-ups.
 
 ### Connect with me:
@@ -31,7 +31,7 @@
 ---
 
 <details>
-  <summary>:zap: &nbsp; GitHub Stats</summary>
+  <summary>✨&nbsp; GitHub Stats &nbsp;✨</summary>
 
  <img align="left" alt= "Medhavi's GitHub stats" src= "https://github-readme-stats.vercel.app/api?username=medhavisinha&show_icons=true&hide_border=true" />
 
