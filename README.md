@@ -30,7 +30,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: &nbsp; GitHub Stats</summary>
 
   <img align="left" alt="medhavisinha's GitHub Stats" src="https://github-readme-stats.medhavisinha.vercel.app/api?username=medhavisinha&show_icons=true&hide_border=true" />
 
