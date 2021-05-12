@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Medhavi Sinha
+## 👋  &nbsp; Hey there, I'm Medhavi Sinha
 [![Twitter Follow](https://img.shields.io/twitter/follow/sassymedhavi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsassymedhavi&screen_name=sassymedhavi)
 ### I'm a Freshman, Web Developer and a Learning Enthusiast.
 
@@ -18,7 +18,7 @@
 
 <br />
 
-### 🖋 Latest Write-up(s) on Medium:
+### 🖋 &nbsp; Latest Write-up(s) on Medium:
 
 <!-- BLOG-POST-LIST:START -->
 - [Drop of Rain](https://onemoremedhavi.medium.com/drop-of-rain-fc2c4c539aa6)
