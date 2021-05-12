@@ -1,5 +1,6 @@
 ## 👋  &nbsp; Hey there, I'm Medhavi Sinha
 [![Twitter Follow](https://img.shields.io/twitter/follow/sassymedhavi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsassymedhavi&screen_name=sassymedhavi)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 ### I'm a Freshman, Web Developer and a Learning Enthusiast.
 
 - 🔭 &nbsp; I'm looking forward to learn more about Web Development.
@@ -40,4 +41,3 @@
 [twitter]: https://twitter.com/sassymedhavi
 [instagram]: https://instagram.com/_medhavisinha_
 [linkedin]: https://www.linkedin.com/in/medhavi-sinha-7b9a431ba/
-
