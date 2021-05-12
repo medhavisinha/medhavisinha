@@ -25,7 +25,7 @@
 - [Letting You Go](https://onemoremedhavi.medium.com/im-letting-you-go-97c94bdd7ecd)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ <br> [More write-ups...](https://onemoremedhavi.medium.com)
+➡️ &nbsp [More write-ups...](https://onemoremedhavi.medium.com)
 
 ---
 
