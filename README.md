@@ -1,8 +1,6 @@
 ### 👋 Hey there, I'm Medhavi Sinha
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sassymedhavi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsassymedhavi&screen_name=sassymedhavi)
-
-## I'm a Freshman, Web Developer and a Learning Enthusiast.
+[![Twitter Follow](https://img.shields.io/twitter/follow/sassymedhavi?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 - 🔭 I'm looking forward to learn more about Web Development
 - 🕵️‍♀️ I’m currently exploring a lot of fields.
@@ -12,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://onemoremedhavi.medium.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
+[<img align="left" alt="https://onemoremedhavi.medium.com/ | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="sassymedhavi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Medhavi Sinha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_medhavisinha_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -42,4 +40,3 @@
 [twitter]: https://twitter.com/sassymedhavi
 [instagram]: https://instagram.com/_medhavisinha_
 [linkedin]: https://www.linkedin.com/in/medhavi-sinha-7b9a431ba/
-[gmail]: onemoremedhavi@gmail.com
