@@ -32,7 +32,7 @@
 <details>
   <summary>:zap: &nbsp; GitHub Stats</summary>
 
- [![Medhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=medhavisinha)](https://github.com/medhavisinha/github-readme-stats)
+ <img align="left" alt= "Medhavi's GitHub stats" src= "https://github-readme-stats.vercel.app/api?username=medhavisinha&show_icons=true&hide_border=true" />
 
 </details>
 
