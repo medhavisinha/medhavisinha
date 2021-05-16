@@ -20,7 +20,8 @@
 <details>
   <summary>✨&nbsp; GitHub Stats &nbsp;✨</summary>
 
- <img align="left" alt= "Medhavi's GitHub stats" src= "https://github-readme-stats.vercel.app/api?username=medhavisinha&show_icons=true&hide_border=true" />
+ <img align="left" alt= "Medhavi's GitHub stats" src= "https://github-readme-stats.vercel.app/api?username=medhavisinha&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical" />
+  
 
 </details>
 
