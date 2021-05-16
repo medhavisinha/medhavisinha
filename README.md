@@ -16,7 +16,7 @@
 [<img align="left" alt="https://onemoremedhavi.medium.com/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
-
+<br />
 <details>
   <summary>✨&nbsp; GitHub Stats &nbsp;✨</summary>
 
