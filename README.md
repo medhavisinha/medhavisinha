@@ -1,4 +1,4 @@
-# 👋  &nbsp; Hey there, I'm Medhavi Sinha
+## 👋  &nbsp; Hey there, I'm Medhavi Sinha
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 ### I'm a Freshman, Web Developer and a Learning Enthusiast.
 
