@@ -17,14 +17,6 @@
 
 <br />
 
-### 🖋 &nbsp; Latest Write-up(s) on Medium:
-
-<!-- BLOG-POST-LIST:START -->
-- [Drop of Rain](https://onemoremedhavi.medium.com/drop-of-rain-fc2c4c539aa6)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ &nbsp; [More write-ups...](https://onemoremedhavi.medium.com)
-
 ---
 
 <details>
