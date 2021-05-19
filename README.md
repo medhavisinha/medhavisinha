@@ -17,11 +17,13 @@
 
 <br />
 <br />
-
+<details>
   <summary>✨&nbsp; GitHub Stats &nbsp;✨</summary>
   <br />
 
  <img align="left" alt= "Medhavi's GitHub stats" src= "https://github-readme-stats.vercel.app/api?username=medhavisinha&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical" />
+ 
+ </details>
 
 [medium]: https://onemoremedhavi.medium.com/
 [twitter]: https://twitter.com/sassymedhavi
