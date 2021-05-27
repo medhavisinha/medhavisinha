@@ -6,7 +6,7 @@
 - 🕵️‍♀️ &nbsp; I’m currently exploring a lot of fields.
 - 🤝 &nbsp; I’m looking forward to collaborate with other developers and learn from them.
 - 🌸  &nbsp; 2021 Goals: I want to contribute towards Open Source projects and become a good developer.
-- 💫  &nbsp; Fun fact: I read (fiction) books and I write different write-ups.
+- 💫  &nbsp; Fun fact: I read a lot of (fiction) books and I write different write-ups.
 
 ### Connect with me:
 
