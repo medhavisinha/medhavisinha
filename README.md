@@ -3,7 +3,7 @@
 ### I'm a Sophomore, Web Developer and a Learning Enthusiast.
 
 - 🔭 &nbsp; I'm looking forward to learn in-depth about Web Development and Competitive Programming.
-- 🕵️‍♀️ &nbsp; I’m currently exploring a lot about finance, as well.
+- 🕵️‍♀️ &nbsp; I’m currently exploring finance sector.
 - 🤝 &nbsp; I’m looking forward to collaborate with other developers and learn from them.
 - 💫  &nbsp; Fun fact: I read a lot of books and I write.
 
