@@ -24,6 +24,6 @@
  </details>
 
 [medium]: https://onemoremedhavi.medium.com/
-[twitter]: https://twitter.com/sassymedhavi
-[instagram]: https://instagram.com/_medhavisinha_
+[twitter]: https://twitter.com/mehhhdhavi
+[instagram]: https://instagram.com/medhavisinhaa
 [linkedin]: https://www.linkedin.com/in/medhavi-sinha-7b9a431ba/
