@@ -2,7 +2,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 ### I'm a Sophomore, Web Developer and a Learning Enthusiast.
 
-- 🔭 &nbsp; I'm looking forward to learn in-depth about Web Development and Competitive Programming.
+- 🔭 &nbsp; I'm learning in-depth about Web Development and Competitive Programming.
 - 🕵️‍♀️ &nbsp; I’m currently exploring finance sector.
 - 🤝 &nbsp; I’m looking forward to collaborate with other developers and learn from them.
 - 💫  &nbsp; Fun fact: I read a lot of books and I write.
