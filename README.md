@@ -25,5 +25,5 @@
 
 [medium]: https://onemoremedhavi.medium.com/
 [twitter]: https://twitter.com/mehhhdhavi
-[instagram]: https://instagram.com/medhavisinhaa
+[instagram]: https://instagram.com/medhavisinhaaa
 [linkedin]: https://www.linkedin.com/in/medhavi-sinha-7b9a431ba/
