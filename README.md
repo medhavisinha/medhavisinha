@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sassymedhavi | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="_medhavisinha_ | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="https://onemoremedhavi.medium.com/" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
@@ -24,6 +23,5 @@
  </details>
 
 [medium]: https://onemoremedhavi.medium.com/
-[twitter]: https://twitter.com/mehhhdhavi
 [instagram]: https://instagram.com/medhavisinhaaa
 [linkedin]: https://www.linkedin.com/in/medhavi-sinha-7b9a431ba/
