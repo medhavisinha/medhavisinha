@@ -1,6 +1,6 @@
 ## 👋  &nbsp; Hey there, I'm Medhavi Sinha
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-### I'm a Sophomore, Web Developer and a Learning Enthusiast.
+### I'm a Junior, Web Developer and a Learning Enthusiast.
 
 - 🔭 &nbsp; I'm learning in-depth about Web Development and Competitive Programming.
 - 🕵️‍♀️ &nbsp; I’m currently exploring finance sector.
