@@ -23,5 +23,5 @@
  </details>
 
 [medium]: https://onemoremedhavi.medium.com/
-[instagram]: https://instagram.com/medhavisinhaaa
+[instagram]: https://instagram.com/medhavisinha
 [linkedin]: https://www.linkedin.com/in/medhavi-sinha-7b9a431ba/
