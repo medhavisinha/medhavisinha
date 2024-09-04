@@ -2,10 +2,10 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 ### I'm a Senior, Web Developer and a Learning Enthusiast.
 
-- 🔭 &nbsp; I'm learning in-depth about Web Development and Competitive Programming.
-- 🕵️‍♀️ &nbsp; I’m currently exploring electronics and robotics sector.
+- 🕵️‍♀️ &nbsp; I’m currently working in a Fintech company.
+- 🔭 &nbsp; I'm exploring finance and technology and how they go hand-in-hand.
 - 🤝 &nbsp; I’m looking forward to collaborate with other developers and learn from them.
-- 💫  &nbsp; Fun fact: I read a lot of books and I write.
+- 💫 &nbsp; Fun fact: I read a lot of books and I write.
 
 ### Connect with me:
 
