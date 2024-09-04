@@ -1,6 +1,5 @@
 ## 👋  &nbsp; Hey there, I'm Medhavi Sinha
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-### I'm a Senior, Web Developer and a Learning Enthusiast.
 
 - 🕵️‍♀️ &nbsp; I’m currently working in a Fintech company.
 - 🔭 &nbsp; I'm exploring finance and technology and how they go hand-in-hand.
